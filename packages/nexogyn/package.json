@@ -1,0 +1,12 @@
+{
+  "name": "nexogyn",
+  "version": "1.0.0",
+  "description": "Andiro NexoGyn Helpers Library",
+  "main": "index.js",
+  "module": "src/index.js",
+  "license": "MIT",
+"dependencies": {
+    "request": "2.88.0",
+    "jsdom": "15.1.1"
+  }
+}
